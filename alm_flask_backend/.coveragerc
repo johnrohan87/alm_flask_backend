@@ -1,0 +1,6 @@
+[run]
+source = alm_flask_backend
+omit = 
+    tests/*
+    autoapp.py
+
